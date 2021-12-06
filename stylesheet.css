@@ -17,7 +17,7 @@ body{
 }
 
 .bodymain{
-  background-image: url("./img/background1.JPG");
+  background-image: url("./background1.JPG");
   background-color:rgba(255,255,255,0.7);
   background-size: cover;
   overflow: auto;
