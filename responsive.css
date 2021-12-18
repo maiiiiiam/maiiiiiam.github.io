@@ -1,0 +1,46 @@
+@media (max-width:1000px) {
+    body{
+        font-size: 15px;
+    }
+
+    .para-font{
+        font-size:35px ;
+    }
+    .Hobbies{
+        padding:20px 20px;
+    }
+    .hobby-title{
+        font-size: 11px;
+    }
+    .hobby-sentence{
+        font-size: 10px;
+    }
+    
+}
+@media (max-width:670px) {
+    body{
+        font-size: 15px;
+    }
+    .box{
+        clear: left;
+      
+    }
+    .para-font{
+        font-size:25px ;
+    }
+    .aboutme{
+        width:100%;
+    }
+    .right-frame{
+        width:100%;
+    }
+    .Hobbies{
+        padding:20px 10px;
+    }
+    .hobby-title{
+        font-size: 10px;
+    }
+    .hobby-sentence{
+        font-size: 8px;
+    }
+}
