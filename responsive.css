@@ -35,12 +35,12 @@
         width:100%;
     }
     .Hobbies{
-        padding:20px 10px;
+        padding:20px 7px;
     }
     .hobby-title{
-        font-size: 10px;
+        font-size: 8px;
     }
     .hobby-sentence{
-        font-size: 8px;
+        font-size: 6px;
     }
 }
